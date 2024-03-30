@@ -1,0 +1,7 @@
+uvicorn
+fastapi
+scikit-learn
+requests
+pillow
+torch
+torchvision
